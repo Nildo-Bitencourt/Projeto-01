@@ -1,0 +1,5 @@
+Olá 
+
+
+
+git init - para criar o primeiro arquivo GITHUB
