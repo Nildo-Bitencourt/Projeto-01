@@ -3,3 +3,17 @@ Olá
 
 
 git init - para criar o primeiro arquivo GITHUB
+
+$ git branch staging
+
+$ git branch
+* master
+  staging
+
+$ git checkout staging
+Switched to branch 'staging'
+
+
+$ git branch
+  master
+* staging
